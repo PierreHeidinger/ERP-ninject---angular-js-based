@@ -1,0 +1,6 @@
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Entity\bin\Debug\Domain.Entity.dll
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Entity\bin\Debug\Domain.Entity.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Entity\bin\Debug\NPoco.dll
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Entity\obj\Debug\Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Entity\obj\Debug\Domain.Entity.dll
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Entity\obj\Debug\Domain.Entity.pdb

@@ -1,0 +1,14 @@
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\bin\Debug\Persistence.MicroORM.NPoco.dll
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\bin\Debug\Persistence.MicroORM.NPoco.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\bin\Debug\Core.DTO.dll
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\bin\Debug\Domain.Contract.dll
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\bin\Debug\Domain.Entity.dll
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\bin\Debug\NPoco.dll
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\bin\Debug\NPoco.StoredProcedures.dll
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\bin\Debug\Core.DTO.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\bin\Debug\Domain.Contract.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\bin\Debug\Domain.Entity.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\obj\Debug\Persistence.MicroORM.NPoco.csprojResolveAssemblyReference.cache
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\obj\Debug\Persistence.MicroORM.NPoco.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\obj\Debug\Persistence.MicroORM.NPoco.dll
+C:\Users\Pierre\source\repos\SistemaERP\Persistence.MicroORM.NPoco\obj\Debug\Persistence.MicroORM.NPoco.pdb

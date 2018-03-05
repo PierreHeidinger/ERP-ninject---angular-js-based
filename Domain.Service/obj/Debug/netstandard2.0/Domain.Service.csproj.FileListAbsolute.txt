@@ -1,0 +1,9 @@
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Service\bin\Debug\netstandard2.0\Domain.Service.deps.json
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Service\bin\Debug\netstandard2.0\Domain.Service.dll
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Service\bin\Debug\netstandard2.0\Domain.Service.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Service\obj\Debug\netstandard2.0\Domain.Service.csprojResolveAssemblyReference.cache
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Service\obj\Debug\netstandard2.0\Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Service\obj\Debug\netstandard2.0\Domain.Service.AssemblyInfoInputs.cache
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Service\obj\Debug\netstandard2.0\Domain.Service.AssemblyInfo.cs
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Service\obj\Debug\netstandard2.0\Domain.Service.dll
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Service\obj\Debug\netstandard2.0\Domain.Service.pdb

@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html ng-app ="Application">
+<head>
+    <title>:: Portal Comercial ::</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    @Styles.Render("~/bundles/bootstrap")
+    @Styles.Render("~/bundles/theme")
+    @Styles.Render("~/bundles/dynatable")
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrapjs")
+    @Scripts.Render("~/bundles/angularjs")
+    @Scripts.Render("~/bundles/dynatablejs")
+
+    <script>
+
+        window.rootPath = '@Url.Content("~")';
+
+    </script>
+</head>
+<body class="sticky-header left-side-collapsed">
+    <section>
+
+
+        <!--Menu-->
+        @Html.Partial("~/Views/Shared/_Menu.cshtml")
+        <!--Menu-->
+        <!--Content-->
+        <div class="main-content" ">
+            <!-- header-starts -->
+            <div class="header-section">
+                <!--notification menu -->
+                @Html.Partial("~/Views/Shared/_MenuNotification.cshtml")
+                <!--notification menu -->
+            </div>
+            <!-- //header-ends -->
+            <div id="page-wrapper">
+                @RenderBody()
+            </div>
+
+        </div>
+        <!--Content-->
+        <!--footer-->
+        @Html.Partial("~/Views/Shared/_Footer.cshtml")
+        <!--footer-->
+
+    </section>
+
+
+
+    @Scripts.Render("~/bundles/themejs")
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

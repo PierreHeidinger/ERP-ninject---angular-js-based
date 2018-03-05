@@ -1,0 +1,6 @@
+C:\Users\Pierre\source\repos\SistemaERP\Core.DTO\bin\Debug\Core.DTO.dll
+C:\Users\Pierre\source\repos\SistemaERP\Core.DTO\bin\Debug\Core.DTO.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Core.DTO\obj\Debug\Core.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\source\repos\SistemaERP\Core.DTO\obj\Debug\Core.DTO.dll
+C:\Users\Pierre\source\repos\SistemaERP\Core.DTO\obj\Debug\Core.DTO.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Core.DTO\obj\Debug\Core.DTO.csprojResolveAssemblyReference.cache

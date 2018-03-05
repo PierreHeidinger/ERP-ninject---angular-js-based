@@ -1,0 +1,11 @@
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\bin\Debug\Domain.Contract.dll
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\bin\Debug\Domain.Contract.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\bin\Debug\Core.DTO.dll
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\bin\Debug\Domain.Entity.dll
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\bin\Debug\NPoco.dll
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\bin\Debug\Core.DTO.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\bin\Debug\Domain.Entity.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\obj\Debug\Domain.Contract.csprojResolveAssemblyReference.cache
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\obj\Debug\Domain.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\obj\Debug\Domain.Contract.dll
+C:\Users\Pierre\source\repos\SistemaERP\Domain.Contract\obj\Debug\Domain.Contract.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pierre\source\repos\SistemaERP\Infraestructure.Secutiry\bin\Debug\netstandard2.0\Infraestructure.Secutiry.deps.json
+C:\Users\Pierre\source\repos\SistemaERP\Infraestructure.Secutiry\bin\Debug\netstandard2.0\Infraestructure.Secutiry.dll
+C:\Users\Pierre\source\repos\SistemaERP\Infraestructure.Secutiry\bin\Debug\netstandard2.0\Infraestructure.Secutiry.pdb
+C:\Users\Pierre\source\repos\SistemaERP\Infraestructure.Secutiry\obj\Debug\netstandard2.0\Infraestructure.Secutiry.csprojResolveAssemblyReference.cache
+C:\Users\Pierre\source\repos\SistemaERP\Infraestructure.Secutiry\obj\Debug\netstandard2.0\Infraestructure.Secutiry.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\source\repos\SistemaERP\Infraestructure.Secutiry\obj\Debug\netstandard2.0\Infraestructure.Secutiry.AssemblyInfoInputs.cache
+C:\Users\Pierre\source\repos\SistemaERP\Infraestructure.Secutiry\obj\Debug\netstandard2.0\Infraestructure.Secutiry.AssemblyInfo.cs
+C:\Users\Pierre\source\repos\SistemaERP\Infraestructure.Secutiry\obj\Debug\netstandard2.0\Infraestructure.Secutiry.dll
+C:\Users\Pierre\source\repos\SistemaERP\Infraestructure.Secutiry\obj\Debug\netstandard2.0\Infraestructure.Secutiry.pdb

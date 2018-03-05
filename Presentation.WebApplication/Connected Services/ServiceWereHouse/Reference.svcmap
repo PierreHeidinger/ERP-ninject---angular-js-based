@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b191a2ef-7261-4b62-95d1-16d1cae733db" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:58626/Service/ServiceWereHouse.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceWereHouse.xsd" MetadataType="Schema" ID="b098e4bb-d187-406c-a3ab-aa6ef9811650" SourceId="1" SourceUrl="http://localhost:58626/Service/ServiceWereHouse.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceWereHouse1.xsd" MetadataType="Schema" ID="8bf5584e-5ede-401f-a01e-ed591828a1f6" SourceId="1" SourceUrl="http://localhost:58626/Service/ServiceWereHouse.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceWereHouse.wsdl" MetadataType="Wsdl" ID="d317a4f4-d978-4e89-8fa6-2b8011eb4ccb" SourceId="1" SourceUrl="http://localhost:58626/Service/ServiceWereHouse.svc?wsdl" />
+    <MetadataFile FileName="ServiceWereHouse2.xsd" MetadataType="Schema" ID="a80fb027-2aa6-4380-8ecc-1af6d4e8cd92" SourceId="1" SourceUrl="http://localhost:58626/Service/ServiceWereHouse.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceWereHouse.disco" MetadataType="Disco" ID="6c9140ac-27b6-4ac1-9ba6-a4fb359821ce" SourceId="1" SourceUrl="http://localhost:58626/Service/ServiceWereHouse.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

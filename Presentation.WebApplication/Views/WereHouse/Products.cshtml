@@ -1,0 +1,70 @@
+﻿
+@Scripts.Render("~/bundles/Productjs")
+
+
+<div class="panel panel-default" ng-controller="ProductController">
+    <div class="panel-heading">
+        <h3>Almacen > Productos</h3>
+    </div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Codigo" />
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Descripciòn" />
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="form-group">
+                    <select class="form-control btn btn-default">
+                        <option>ESTADO</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="pull-right">
+                    <button type="button" class="btn btn-info customButtom" aria-label="Left Align">
+                        <span class="fa fa-search fa-lg" aria-hidden="true"></span>
+                        Buscar
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <hr />
+        </div>
+        <div class="row">
+            <div class="col-md-10">
+                <div id="container">
+                    <table id="table-pruebita" class="display compact custom" cellspacing="0">
+                        <thead>
+                            <tr>
+                                <th>Codigo</th>
+                                <th>Descripcion</th>
+                                <th>Tipo</th>
+                                <th>Marca</th>
+                                <th>Fecha Registro</th>
+                                <th>Estado</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <center>
+                    <div class="form-group">
+                        <button type="button" class="btn btn-info customButtom" aria-label="Left Align">
+                            <span class="fa fa-plus fa-lg" aria-hidden="true"></span>
+                            Nuevo Producto
+                        </button>
+                    </div>
+                </center>
+            </div>
+        </div>
+
+    </div>
+</div>
